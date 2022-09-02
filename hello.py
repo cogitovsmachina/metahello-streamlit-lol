@@ -1,17 +1,17 @@
 import streamlit as st
 
-st.markdown("# Alan Jones")
-st.markdown("## Writer and Developer")
+st.markdown("# Enrique Diaz")
+st.markdown("## Machine Learning Engineer and Startup junkie")
 st.markdown("""
-    I write articles about Data Science, Python and related topics. 
-    The articles are mostly written on the Medium platform.
     
-    You can find my articles [here](https://alan-jones.medium.com)
-    and if you would like to know when I publish new ones, you can 
-    sign up for an email alert on my Medium 
-    [page](https://alan-jones.medium.com/subscribe).
+    ### Hi there fellow hacker! 👋👋
 
-    Below are a few articles you might find interesting...
+    I'm Enrique (<i>aka Kike</i>) a self-taught computer science enthusiast with experience in learning communities. 
+    I'm a Co-founder and Machine Learning Engineer at the DEVF, 
+  where I co-lead the Data Science and Artificial Intelligence team of Senseis and code prototipes in order to 
+  apply Machine Learning Algorithms. I'm passionate about building communities, empower others and create opportunities
+   for those who cannot afford or be able to get access to high quality education.
+
 """)
 
 with st.container():

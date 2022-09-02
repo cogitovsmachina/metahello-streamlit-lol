@@ -1,10 +1,12 @@
 import streamlit as st
 
-st.markdown("# Alan Jones # 2")
-st.markdown("## Writer and Developer")
+st.markdown("# Enrique Diaz # 2")
+st.markdown("## Machine Learning Engineer and Startup junkie")
 st.markdown("""
     I write articles about Data Science, Python and related topics. 
     The articles are mostly written on the Medium platform.
+
+    Hello! I write code and teach lessons about ML landscape
     
     You can find my articles [here](https://alan-jones.medium.com)
     and if you would like to know when I publish new ones, you can 

@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.markdown("# Alan Jones #3")
-st.markdown("## Writer and Developer")
+st.markdown("# Enrique Diaz #3")
+st.markdown("## Machine Learning Engineer and Startup junkie")
 st.markdown("""
     I write articles about Data Science, Python and related topics. 
     The articles are mostly written on the Medium platform.
